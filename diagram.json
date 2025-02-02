@@ -17,7 +17,7 @@
         "id": "r1",
         "top": 51.95,
         "left": -259.2,
-        "attrs": { "value": "330000" }
+        "attrs": { "value": "330" }
       },
       {
         "type": "wokwi-led",
