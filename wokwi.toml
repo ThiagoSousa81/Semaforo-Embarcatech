@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/Semaforo-Embarcatech.uf2'
+elf = 'build/Semaforo-Embarcatech.elf'
+gdbServerPort=3333
